@@ -8,7 +8,7 @@ Witaj w repozytorium poświęconym nauce Node.js! Ten projekt zawiera przykłado
 
 Plik `event-loop.js` ilustruje działanie pętli zdarzeń w Node.js oraz wykorzystanie asynchronicznych operacji wejścia/wyjścia. Zawiera kod, który prezentuje działanie funkcji `setTimeout`, `setImmediate`, `fs.readFile`, `process.nextTick` oraz `crypto.pbkdf2Sync`.
 
-## 2. events.js
+## 2. events.js 
 
 W `events.js` pokazane są podstawowe funkcje obiektu EventEmitter oraz jego użycie w praktyce. Tworzony jest także serwer HTTP, który wykorzystuje zdarzenia do obsługi żądań oraz zamykania serwera.
 
