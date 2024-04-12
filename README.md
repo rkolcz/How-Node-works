@@ -1,4 +1,4 @@
-### How Node.js works
+### How Node works
 
 # Nauka Node.js
 
